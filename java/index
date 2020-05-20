@@ -1,0 +1,4 @@
+Ce répertoire contient 2 versions de la même application client-serveur
+
+La version V1 correspond à un traitement en mode "java de base"
+La version V2 correspond à un traitement en mode "orienté objet" et intégration de Threads
