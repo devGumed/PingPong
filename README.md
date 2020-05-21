@@ -1,4 +1,4 @@
-# PingPong
+# Ping-Pong en mode Client-Serveur
 Application Client-Serveur simple nommée "Ping-Pong" en Java et NodeJS
 
 Une connaissance minimum des langages est nécessaire pour apprécier totalement la vidéo
